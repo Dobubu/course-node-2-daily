@@ -1,0 +1,23 @@
+{
+  "name": "daily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dobubu/course-node-2-daily.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dobubu/course-node-2-daily/issues"
+  },
+  "homepage": "https://github.com/Dobubu/course-node-2-daily#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
